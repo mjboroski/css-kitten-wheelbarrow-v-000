@@ -26,7 +26,7 @@
   left: 455px;
 }
 
-img["Kitty 5"] {
+img[alt="Kitty 5"] {
   position: absolute;
   z-index: 3;
   top: 217px;
